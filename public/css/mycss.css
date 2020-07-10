@@ -1,0 +1,46 @@
+/* @media only screen and (max-width: 768px) { */
+    /* #homeContainer{
+        max-width: 800px;
+        margin: 0 auto;
+    } */
+
+    #doc{
+        width: 100%;
+    }
+
+    #doc2{
+        width: 80%;
+    }
+    .underline{
+        width: 15%;
+        height: 1%;
+        border: 2px solid #3490dc ;
+    }
+
+    .underlinePurple{
+        width: 15%;
+        height: 1%;
+        border: 2px solid #9b2dff;
+    }
+
+    .color1{
+        background-color: #f8fafc;
+
+    }
+/* } */
+
+/* for tablets*/
+@media only screen and (min-width: 600px){
+    #doc2{
+        width: 70%;
+    }
+
+    #doc3{
+        width:65%;
+    }
+}
+
+/* for desktops */
+@media only screen and (min-width: 768px){
+
+}
