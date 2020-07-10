@@ -3,7 +3,6 @@
 <br>
 Hello {{ucwords($username)}}, welcome to your new eHealth Account<br>
 
-You have role(s) {{$roles}}. <br>
 
 Sign in to your eHealth Account to access the services. <br>
 
